@@ -14,3 +14,6 @@ dir: /build
 
 Convert OBJ assets to GLTF link :
 https://github.com/CesiumGS/obj2gltf
+
+GLTF assets into declarative and re-usable react-three-fiber JSX components link :
+https://github.com/pmndrs/gltfjsx
