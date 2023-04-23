@@ -10,3 +10,7 @@ Run this command to bundle a javascript file
 ```text
 dir: /build
   $ webpack --mode development
+```
+
+Convert OBJ assets to GLTF link :
+https://github.com/CesiumGS/obj2gltf
