@@ -3,7 +3,7 @@
 
 ![Alt text](/screenshot/SSHeadset.bmp?raw=true "Optional Title")
 
-### Compile React JS File into javascript bundle**
+### Compile React JS File into javascript bundle
 
 Run this command to bundle a javascript file
 
