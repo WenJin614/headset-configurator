@@ -8,7 +8,7 @@ import Headphones from "./Headphones";
 const Experience = () => {
     return (
       <PresentationControls speed={1.5} global polar={[-0.1, Math.PI / 4]}>
-      <Stage environment={"city"} intensity={0.6} contactShadow={false}>
+      <Stage environment={null} intensity={0.6} contactShadow={false}>
         <Suspense fallback={null}>
           <Headphones/> 
         </Suspense>
