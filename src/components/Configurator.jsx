@@ -35,16 +35,16 @@ const Configurator = () => {
 
 function handleClick() {
 // Get the .item--active element
-const activeItem = document.querySelector('.item--active');
+//const activeItem = document.querySelector('.item--active');
 
 // Get the .item__dot element within the .item--active element
-const itemDot = activeItem.querySelector('.item__dot');
+//const itemDot = activeItem.querySelector('.item__dot');
 
 // Get the id attribute of the .item__dot element
-const dotId = itemDot.getAttribute('id');
+//const dotId = itemDot.getAttribute('id');
 
 // Log the id attribute to the console
-console.log('ID of the .item__dot within .item--active:', dotId);
+//console.log('ID of the .item__dot within .item--active:', dotId);
 }
 
 export default Configurator;
