@@ -13,6 +13,10 @@
     flex-direction: column;
     gap: 16px;
   }
+
+  .configurator__section{
+    text-align: center;
+  }
   
   .configurator__section__title {
     text-transform: uppercase;
@@ -22,7 +26,7 @@
   }
   
   .configurator__section__values {
-    display: flex;
+    display: -webkit-inline-box;
     flex-direction: row;
     gap: 32px;
     align-items: center;

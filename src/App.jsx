@@ -10,7 +10,6 @@ function App() {
     <CustomizationProvider>
       <div className="App">
       <Canvas>
-        <color attach="background" args={["#101010"]}/>
         <Experience/>
       </Canvas>
       <Configurator/>
